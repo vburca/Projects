@@ -1,4 +1,0 @@
-Projects
-========
-
-Just for fun
